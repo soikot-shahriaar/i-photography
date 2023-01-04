@@ -1,0 +1,40 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+
+p {
+    color: rgba(0, 0, 0, 0.63);
+    font-weight: 900;
+    text-align: center;
+}
+
+h3 {
+    color: darkred;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.container {
+    margin-bottom: 40px;
+}
+
+.carousel-inner {
+    border-radius: 7px;
+}
+
+.img-fluid {
+    border-radius: 10px;
+}
+
+.row {
+    margin-bottom: 60px;
+}
+
+footer {
+    font-size: smaller;
+}
+
+.lead {
+    background-color: rgba(169, 169, 169, 0.062);
+}
